@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "gendiff": "gendiff.js"
+    "gendiff": "src/gendiff.js"
   },
   "type": "module",
   "repository": {
